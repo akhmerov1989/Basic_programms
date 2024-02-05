@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="" />
+    <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Prime number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prime number.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,13 +245,22 @@
       <option name="project" value="LOCAL" />
       <updated>1707148782698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added new dir &quot;Basic programs&quot;&#10;addedd prime number&#10;added function to prime number">
+      <option name="closed" value="true" />
+      <created>1707149460161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707149460161</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added new dir &quot;Basic programs&quot;" />
     <MESSAGE value="added new dir &quot;Basic programs&quot;&#10;addedd prime number" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new dir &quot;Basic programs&quot;&#10;addedd prime number" />
+    <MESSAGE value="added new dir &quot;Basic programs&quot;&#10;addedd prime number&#10;added function to prime number" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new dir &quot;Basic programs&quot;&#10;addedd prime number&#10;added function to prime number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

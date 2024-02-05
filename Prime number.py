@@ -35,3 +35,19 @@ if is_prime(num_check):
     print(f"{num_check} is a prime number.")
 else:
     print(f"{num_check} is not a prime number.")
+
+
+# Print all Prime numbers in am Interval of 1-10
+lower = 1
+upper = 10
+
+print("Prime numbers between", lower, "and", upper, "are: ")
+
+for num_all in range(lower, upper + 1):
+    # all prime numbers are greater than 1
+    if num_all > 1:
+        for i in range(2, num_all):
+            if (num_all % i) == 0:
+                break
+        else:
+            print(num_all)
