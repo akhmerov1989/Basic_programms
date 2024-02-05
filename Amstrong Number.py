@@ -1,5 +1,5 @@
 # Armstrong number - number that equals to the sum of its own digits, each raised to a power equal
-# to the number of digits in this numer
+# to the number of digits in this number
 # 153 - 1** + 5**3 + 3**3
 
 num = int(input("Enter a number: "))
