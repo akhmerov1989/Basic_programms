@@ -22,3 +22,23 @@ else:
         n1 = n2
         n2 = nth
         count += 1
+
+
+# Fibonacci sequence using recursion
+
+def recur_fibo(n):
+    if n <= 1:
+        return n
+    else:
+        return (recur_fibo(n - 1) + recur_fibo(n - 2))
+
+
+nterms_2 = int(input("Enter the number of terms (greater than 0): "))
+
+# Check if the number of terms is valid
+if nterms_2 <= 0:
+    print("Please enter a positive integer")
+else:
+    print("Fibonacci sequence: ")
+    for i in range(nterms_2):
+        print(recur_fibo(i))

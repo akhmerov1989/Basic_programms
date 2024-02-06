@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Find ASCII value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +58,7 @@
     "Python.Highest Common Factor.executor": "Run",
     "Python.Least Common Multiple.executor": "Run",
     "Python.Prime number.executor": "Run",
+    "Python.Simple calculator.executor": "Run",
     "Python.Sum of Natural Numbers.executor": "Run",
     "Python.addition and division.executor": "Run",
     "Python.area of triangle.executor": "Run",
@@ -73,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Find ASCII value">
+  <component name="RunManager" selected="Python.Simple calculator">
     <configuration name="Convert Decimal to Binary, Octal, Hexadecimal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
@@ -162,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum of Natural Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Simple calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum of Natural Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simple calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Simple calculator" />
         <item itemvalue="Python.Find ASCII value" />
         <item itemvalue="Python.Convert Decimal to Binary, Octal, Hexadecimal" />
         <item itemvalue="Python.Highest Common Factor" />
         <item itemvalue="Python.Least Common Multiple" />
-        <item itemvalue="Python.Sum of Natural Numbers" />
       </list>
     </recent_temporary>
   </component>
