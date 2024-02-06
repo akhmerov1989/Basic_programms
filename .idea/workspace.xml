@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Highest Common Factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find ASCII value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +52,10 @@
     "Python.Amstrong Number.executor": "Run",
     "Python.Calendar.executor": "Run",
     "Python.Check leap year.executor": "Run",
+    "Python.Convert Decimal to Binary, Octal, Hexadecimal.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Fibonacci sequence.executor": "Run",
+    "Python.Find ASCII value.executor": "Run",
     "Python.Hello world.executor": "Run",
     "Python.Highest Common Factor.executor": "Run",
     "Python.Least Common Multiple.executor": "Run",
@@ -70,8 +73,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Highest Common Factor">
-    <configuration name="Amstrong Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Find ASCII value">
+    <configuration name="Convert Decimal to Binary, Octal, Hexadecimal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amstrong Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Convert Decimal to Binary, Octal, Hexadecimal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fibonacci sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Find ASCII value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonacci sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find ASCII value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find ASCII value" />
+        <item itemvalue="Python.Convert Decimal to Binary, Octal, Hexadecimal" />
         <item itemvalue="Python.Highest Common Factor" />
         <item itemvalue="Python.Least Common Multiple" />
         <item itemvalue="Python.Sum of Natural Numbers" />
-        <item itemvalue="Python.Amstrong Number" />
-        <item itemvalue="Python.Fibonacci sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707161658693</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added HCF.py">
+      <option name="closed" value="true" />
+      <created>1707229269793</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707229269793</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,7 +315,8 @@
     <MESSAGE value="added factorial program" />
     <MESSAGE value="added Fibonacci seq.py and multiplication Table.py" />
     <MESSAGE value="added Armstrong number.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Armstrong number.py" />
+    <MESSAGE value="added HCF.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HCF.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
