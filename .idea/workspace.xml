@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fibonacci sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiplication Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of Natural Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +48,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Amstrong Number.executor": "Run",
     "Python.Calendar.executor": "Run",
     "Python.Check leap year.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Fibonacci sequence.executor": "Run",
     "Python.Hello world.executor": "Run",
     "Python.Prime number.executor": "Run",
+    "Python.Sum of Natural Numbers.executor": "Run",
     "Python.addition and division.executor": "Run",
     "Python.area of triangle.executor": "Run",
     "Python.conversion km to mi.executor": "Run",
@@ -67,8 +68,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Fibonacci sequence">
-    <configuration name="Check leap year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Sum of Natural Numbers">
+    <configuration name="Amstrong Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Check leap year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amstrong Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prime number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum of Natural Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prime number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum of Natural Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sum of Natural Numbers" />
+        <item itemvalue="Python.Amstrong Number" />
         <item itemvalue="Python.Fibonacci sequence" />
         <item itemvalue="Python.multiplication Table" />
         <item itemvalue="Python.Factorial" />
-        <item itemvalue="Python.Prime number" />
-        <item itemvalue="Python.Check leap year" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +275,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707150554128</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added Fibonacci seq.py and multiplication Table.py">
+      <option name="closed" value="true" />
+      <created>1707151657118</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707151657118</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added Armstrong number.py">
+      <option name="closed" value="true" />
+      <created>1707161658693</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707161658693</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,7 +300,9 @@
     <MESSAGE value="added new dir &quot;Basic programs&quot;&#10;addedd prime number&#10;added function to prime number" />
     <MESSAGE value="added new dir &quot;Basic programs&quot;&#10;addedd prime number&#10;added function to prime number&#10;added interval with prime numbers" />
     <MESSAGE value="added factorial program" />
-    <option name="LAST_COMMIT_MESSAGE" value="added factorial program" />
+    <MESSAGE value="added Fibonacci seq.py and multiplication Table.py" />
+    <MESSAGE value="added Armstrong number.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Armstrong number.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
