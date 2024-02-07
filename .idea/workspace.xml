@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="" />
+    <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Cube sum of first n natural numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Largest elemet in array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural logarithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of array(list).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +26,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "akhmerov1989"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;akhmerov1989&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -34,9 +40,9 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2bwysZJ0CY0HHaDxTEmiufnIBH7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,18 +52,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Amstrong Number.executor": "Run",
+    "Python.Body Mass Index.executor": "Run",
     "Python.Calendar.executor": "Run",
     "Python.Check leap year.executor": "Run",
     "Python.Convert Decimal to Binary, Octal, Hexadecimal.executor": "Run",
+    "Python.Cube sum of first n natural numbers.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Fibonacci sequence.executor": "Run",
     "Python.Find ASCII value.executor": "Run",
     "Python.Hello world.executor": "Run",
     "Python.Highest Common Factor.executor": "Run",
+    "Python.Largest elemet in array.executor": "Run",
     "Python.Least Common Multiple.executor": "Run",
+    "Python.Natural logarithm.executor": "Run",
     "Python.Prime number.executor": "Run",
     "Python.Simple calculator.executor": "Run",
     "Python.Sum of Natural Numbers.executor": "Run",
+    "Python.Sum of array(list).executor": "Run",
     "Python.addition and division.executor": "Run",
     "Python.area of triangle.executor": "Run",
     "Python.conversion km to mi.executor": "Run",
@@ -70,8 +81,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Fibonacci sequence">
-    <configuration name="Convert Decimal to Binary, Octal, Hexadecimal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Largest elemet in array">
+    <configuration name="Body Mass Index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Convert Decimal to Binary, Octal, Hexadecimal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Body Mass Index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fibonacci sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Cube sum of first n natural numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonacci sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cube sum of first n natural numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Find ASCII value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Largest elemet in array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find ASCII value.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Largest elemet in array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Highest Common Factor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Natural logarithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Highest Common Factor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Natural logarithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simple calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum of array(list)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simple calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum of array(list).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Fibonacci sequence" />
-        <item itemvalue="Python.Simple calculator" />
-        <item itemvalue="Python.Find ASCII value" />
-        <item itemvalue="Python.Convert Decimal to Binary, Octal, Hexadecimal" />
-        <item itemvalue="Python.Highest Common Factor" />
+        <item itemvalue="Python.Largest elemet in array" />
+        <item itemvalue="Python.Sum of array(list)" />
+        <item itemvalue="Python.Cube sum of first n natural numbers" />
+        <item itemvalue="Python.Natural logarithm" />
+        <item itemvalue="Python.Body Mass Index" />
       </list>
     </recent_temporary>
   </component>
