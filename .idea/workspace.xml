@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Matrix/Add two matrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrix/Multiply two matrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrix/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/Transpose a matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +64,7 @@
     "Python.Largest elemet in array.executor": "Run",
     "Python.Least Common Multiple.executor": "Run",
     "Python.Monotonic array.executor": "Run",
+    "Python.Multiply two matrices.executor": "Run",
     "Python.Natural logarithm.executor": "Run",
     "Python.Prime number.executor": "Run",
     "Python.Simple calculator.executor": "Run",
@@ -90,7 +89,7 @@
       <recent name="$PROJECT_DIR$/Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Add two matrices">
+  <component name="RunManager" selected="Python.Multiply two matrices">
     <configuration name="Add two matrices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
@@ -135,28 +134,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Largest elemet in array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Basic programms " />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Largest elemet in array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Monotonic array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
@@ -171,6 +148,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Monotonic array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Multiply two matrices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic programms " />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrix" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrix/Multiply two matrices.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Multiply two matrices" />
         <item itemvalue="Python.Add two matrices" />
         <item itemvalue="Python.Monotonic array" />
         <item itemvalue="Python.Split array" />
         <item itemvalue="Python.Array rotation" />
-        <item itemvalue="Python.Largest elemet in array" />
       </list>
     </recent_temporary>
   </component>
@@ -342,6 +341,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matrix/Multiply two matrices.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
