@@ -21,3 +21,15 @@ try:
         print(f"{num} is not Disarium number.")
 except ValueError:
     print("Invalid input. Please enter a valid numnber.")
+
+
+# Print all disarium numbers between 1 and 100
+
+disarium_numbers = [num for num in range(1,101) if is_disarium(num)]
+
+print("Disarium numbers between 1 and 100:")
+for num in disarium_numbers:
+    print(num, end=" | ")
+
+
+
