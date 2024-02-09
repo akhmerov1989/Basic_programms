@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Remove_punctuation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dissarium number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.Check leap year.executor": "Run",
     "Python.Convert Decimal to Binary, Octal, Hexadecimal.executor": "Run",
     "Python.Cube sum of first n natural numbers.executor": "Run",
+    "Python.Dissarium number.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Fibonacci sequence.executor": "Run",
     "Python.Find ASCII value.executor": "Run",
@@ -92,8 +93,8 @@
       <recent name="$PROJECT_DIR$/Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Remove_punctuation">
-    <configuration name="Add two matrices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Dissarium number">
+    <configuration name="Dissarium number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrix/Add two matrices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dissarium number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dissarium number" />
         <item itemvalue="Python.Remove_punctuation" />
         <item itemvalue="Python.Sort words in a Alphabetic order" />
         <item itemvalue="Python.Transpose a matrix" />
         <item itemvalue="Python.Multiply two matrices" />
-        <item itemvalue="Python.Add two matrices" />
       </list>
     </recent_temporary>
   </component>
