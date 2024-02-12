@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/List/Largest number in list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/Multiply list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/Smallest number in list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/Sum of the list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/Largest number in list.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/Largest number in list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
