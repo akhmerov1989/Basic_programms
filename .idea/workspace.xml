@@ -73,6 +73,7 @@
     "Python.Prime number.executor": "Run",
     "Python.Pronic number.executor": "Run",
     "Python.Remove empty list from list.executor": "Run",
+    "Python.Remove,Copy.executor": "Run",
     "Python.Remove_punctuation.executor": "Run",
     "Python.Simple calculator.executor": "Run",
     "Python.Smallest number in list.executor": "Run",
@@ -100,7 +101,7 @@
       <recent name="$PROJECT_DIR$/Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Remove empty list from list">
+  <component name="RunManager" selected="Python.Remove,Copy">
     <configuration name="Largest number in list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
@@ -167,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Remove empty list from list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Remove,Copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/Remove empty list from list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/Remove,Copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +236,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Remove empty list from list" />
+        <item itemvalue="Python.Remove,Copy" />
         <item itemvalue="Python.Odd  and Even numbers in list" />
         <item itemvalue="Python.Largest number in list" />
         <item itemvalue="Python.Smallest number in list" />
