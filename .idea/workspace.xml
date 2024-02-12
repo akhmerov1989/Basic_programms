@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Largest number in list.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/Largest number in list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/Odd  and Even numbers in list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,8 @@
     "Python.Multiply list.executor": "Run",
     "Python.Multiply two matrices.executor": "Run",
     "Python.Natural logarithm.executor": "Run",
+    "Python.Odd  and Even numbers in list.executor": "Run",
+    "Python.Odd numbers in list.executor": "Run",
     "Python.Prime number.executor": "Run",
     "Python.Pronic number.executor": "Run",
     "Python.Remove_punctuation.executor": "Run",
@@ -100,7 +101,7 @@
       <recent name="$PROJECT_DIR$/Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Largest number in list">
+  <component name="RunManager" selected="Python.Odd  and Even numbers in list">
     <configuration name="Largest number in list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
@@ -145,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pronic number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Odd  and Even numbers in list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pronic number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/Odd  and Even numbers in list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Odd  and Even numbers in list" />
         <item itemvalue="Python.Largest number in list" />
         <item itemvalue="Python.Smallest number in list" />
         <item itemvalue="Python.Multiply list" />
         <item itemvalue="Python.Sum of the list" />
-        <item itemvalue="Python.Pronic number" />
       </list>
     </recent_temporary>
   </component>
