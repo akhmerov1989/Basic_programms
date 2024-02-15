@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Operations with strings/Uncommon words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations with strings/Duplicate character.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.Count occurences of an element.executor": "Run",
     "Python.Cube sum of first n natural numbers.executor": "Run",
     "Python.Dissarium number.executor": "Run",
+    "Python.Duplicate character.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Fibonacci sequence.executor": "Run",
     "Python.Find ASCII value.executor": "Run",
@@ -109,7 +110,7 @@
       <recent name="$PROJECT_DIR$/Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Uncommon words">
+  <component name="RunManager" selected="Python.Duplicate character">
     <configuration name="Binary string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
@@ -132,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Find words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Duplicate character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operations with strings/Find words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operations with strings/Duplicate character.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Duplicate character" />
         <item itemvalue="Python.Uncommon words" />
         <item itemvalue="Python.Binary string" />
         <item itemvalue="Python.Split and join a string" />
         <item itemvalue="Python.Removing character" />
-        <item itemvalue="Python.Find words" />
       </list>
     </recent_temporary>
   </component>
