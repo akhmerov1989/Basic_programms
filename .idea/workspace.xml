@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72137a1-fee0-45d6-ac33-317bdd487edd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Operations with dictionaries/Merging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations with dictionaries/Ordered Dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
     "Python.Natural logarithm.executor": "Run",
     "Python.Odd  and Even numbers in list.executor": "Run",
     "Python.Odd numbers in list.executor": "Run",
+    "Python.Ordered Dict.executor": "Run",
     "Python.Prime number.executor": "Run",
     "Python.Pronic number.executor": "Run",
     "Python.Remove empty list from list.executor": "Run",
@@ -100,6 +101,7 @@
     "Python.addition and division.executor": "Run",
     "Python.area of triangle.executor": "Run",
     "Python.conversion km to mi.executor": "Run",
+    "Python.convert key-values list to flat dict.executor": "Run",
     "Python.multiplication Table.executor": "Run",
     "Python.positive, negative, odd, even.executor": "Run",
     "Python.quadratic equation.executor": "Run",
@@ -115,29 +117,7 @@
       <recent name="$PROJECT_DIR$/Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Merging">
-    <configuration name="Duplicate character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Basic programms " />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operations with strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operations with strings/Duplicate character.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Ordered Dict">
     <configuration name="Extract unique values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
@@ -182,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Special character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ordered Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic programms " />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operations with strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operations with dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operations with strings/Special character.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operations with dictionaries/Ordered Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,6 +198,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operations with dictionaries/Sum of all items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convert key-values list to flat dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic programms " />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operations with dictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operations with dictionaries/convert key-values list to flat dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ordered Dict" />
+        <item itemvalue="Python.convert key-values list to flat dict" />
         <item itemvalue="Python.Merging" />
         <item itemvalue="Python.Sum of all items" />
         <item itemvalue="Python.Extract unique values" />
-        <item itemvalue="Python.Special character" />
-        <item itemvalue="Python.Duplicate character" />
       </list>
     </recent_temporary>
   </component>
